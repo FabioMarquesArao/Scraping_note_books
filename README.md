@@ -1,2 +1,2 @@
-# Scraping mercado livre!!!
-Coletando dados de notebooks e salvando em uma planilha excel.
+# Scraping mercado livre!!!...
+Coletando dados e valores de notebooks e salvando em uma planilha excel.
