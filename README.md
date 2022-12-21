@@ -1,6 +1,6 @@
 
 
-# Scraping Notebooks!...
+# Scraping Notebooks!....
 Coletando dados e valores de notebooks no mercado livre e salvando em uma planilha excel.
 
 ## Referência
